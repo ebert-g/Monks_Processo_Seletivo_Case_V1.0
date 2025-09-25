@@ -5,6 +5,6 @@ __pycache__/
 
 frontend/node_modules/
 
-backend/data/metrics.csv
+backend_api/data/metrics.csv
 
 .DS_Store
